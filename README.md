@@ -4,7 +4,6 @@
 [![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 [![Streamlit](https://img.shields.io/badge/streamlit-1.29.0-orange)](https://streamlit.io/)
 
-![Survey Insights Banner](https://raw.githubusercontent.com/Baha-Bouazizi/SoftwareDeveloperSalaryPrediction/main/assets/banner.png)
 
 A simple ML project to showcase my machine learning skills.
 
