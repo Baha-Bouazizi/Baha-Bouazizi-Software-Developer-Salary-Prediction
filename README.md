@@ -100,11 +100,3 @@ The project was developed using the following workflow:
 ## 🤝 Contributing
 
 Feel free to fork this repository and submit pull requests. For major changes, please open an issue first to discuss what you would like to change.
-
-
-   
-
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
