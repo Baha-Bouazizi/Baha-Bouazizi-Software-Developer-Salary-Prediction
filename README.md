@@ -42,13 +42,10 @@ A machine learning application for analyzing and predicting survey results.
    cd SurveyInsights
    ```
 
-2. **Create a virtual environment (recommended)**
+2. **Create a conda environment**
    ```bash
-   python -m venv venv
-   # On Windows
-   .\venv\Scripts\activate
-   # On Unix or MacOS
-   source venv/bin/activate
+   conda create -n ml python
+   conda activate ml
    ```
 
 3. **Install dependencies**
@@ -56,12 +53,24 @@ A machine learning application for analyzing and predicting survey results.
    pip install -r requirements.txt
    ```
 
-4. **Run the application**
+4. **Development Process**
+   - Use Jupyter Notebook for initial data exploration and model training
+   - Once development is complete, open Visual Studio Code for Streamlit frontend development
+
+5. **Run the application**
    ```bash
    streamlit run app.py
    ```
 
    This will start a local server and open the application in your default web browser.
+
+## 📝 Development Workflow
+
+The project was developed using the following workflow:
+1. Create a conda environment for Python
+2. Use Jupyter Notebook for initial data exploration and model training
+3. Once development is complete, switch to Visual Studio Code for Streamlit frontend development
+4. Finalize the application in VS Code
 
 ## 📊 Usage
 
