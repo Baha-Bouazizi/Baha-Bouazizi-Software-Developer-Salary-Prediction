@@ -30,7 +30,8 @@ A machine learning application for analyzing and predicting survey results.
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/Baha-Bouazizi/Software-Developer-Salary-Prediction
+   git clone https://github.com/Baha-Bouazizi/SoftwareDeveloperSalaryPrediction
+
    cd SurveyInsights
    ```
 
