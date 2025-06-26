@@ -4,6 +4,7 @@
 [![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 [![Streamlit](https://img.shields.io/badge/streamlit-1.29.0-orange)](https://streamlit.io/)
 
+![Survey Insights Banner](https://raw.githubusercontent.com/Baha-Bouazizi/SoftwareDeveloperSalaryPrediction/main/assets/banner.png)
 
 A simple ML project to showcase my machine learning skills.
 
@@ -101,3 +102,10 @@ The project was developed using the following workflow:
 
 Feel free to fork this repository and submit pull requests. For major changes, please open an issue first to discuss what you would like to change.
 
+
+   
+
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
